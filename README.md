@@ -29,6 +29,7 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
   - [Template](#template)
   - [Utility](#utility)
   - [Validation](#validation)
+  - [Blockchain](#blockchain)
 - [Resources](#resources)
 - [License](#license)
 
@@ -206,6 +207,10 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 ### Validation
 
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
+
+### Blockchain
+
+* [Polkadart](https://github.com/leonardocustodio/polkadart) - Sign transactions, decode data, connect and interact with any Polkadot-based blockchain.
 
 
 ## Resources
